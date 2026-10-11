@@ -8,7 +8,7 @@ permissions:
 
 env:
   REPO_URL: https://github.com/LiBwrt/openwrt-6.x.git
-  REPO_BRANCH: main
+  REPO_BRANCH: 25.12-nss
   CONFIG_FILE: configs/ipq60xx-nowifi-easytier-mosdns.config
   DIY_SCRIPT: diy-ipq60xx-nowifi-easytier-mosdns.sh
   CLASH_KERNEL: amd64
